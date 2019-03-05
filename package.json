@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-qcfe",
+  "version": "1.0.0",
+  "description": "qcfe eslint config",
+  "main": "index.js",
+  "repository": "git@github.com:quancheng-fe/eslint-config-qcfe.git",
+  "author": "zephyr <zephyr.workmail@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^5.15.1",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.2",
+    "@typescript-eslint/parser": "^1.4.2",
+    "eslint-config-prettier": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "typescript": "^3.3.3333"
+  }
+}
